@@ -11,4 +11,4 @@ Blue Borders = Questing Area's
 
 
 ## Repo Quicklinks
-- [Some Link](https://github.com/Freezy3/Freezy3-TBC-Questing-Guide)
+- [Base Folder](https://github.com/Freezy3/Freezy3-TBC-Questing-Guide)
