@@ -1,3 +1,5 @@
+Make sure to close and/or save in the edit visual studio so changes can be found
+
 git status
 display
 
