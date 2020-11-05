@@ -1,9 +1,9 @@
 # Index of Zones
 
-## Base Legend for the maps
-Yellow line = Questing
-Orange dotted line = Turn in travel
-Green dotted line = Long Travel
+## Base Legend for the maps  
+Yellow line = Questing  
+Orange dotted line = Turn in travel  
+Green dotted line = Long Travel  
 
 ### [Hellfire Peninsula](./Hellfire/index.md)
 
