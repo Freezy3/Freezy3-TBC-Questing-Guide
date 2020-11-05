@@ -1,1 +1,14 @@
-test
+git status
+display
+
+git add .
+add any file that is unstaged
+
+git commit -m "these are the changes you're looking to push"
+commit the change
+
+git push -u
+pushing any changes to github
+
+
+
