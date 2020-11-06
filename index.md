@@ -7,8 +7,7 @@ Green dotted line = Long Travel
 Blue Circles = Objective Area's  
 Blue Borders = Questing Area's
 
-### [Hellfire Peninsula](./Hellfire/index.md)
-## [Sticky Images with some table layouts](./Hellfire/stickyimage-test.html)
+### [Hellfire Peninsula](./Hellfire/stickyimage-test.html)
 
 
 ## Repo Quicklinks
