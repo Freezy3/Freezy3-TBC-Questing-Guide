@@ -12,5 +12,5 @@ commit the change
 git push -u
 pushing any changes to github
 
-
-
+git push -f
+force pushes changes to github
