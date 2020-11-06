@@ -9,6 +9,8 @@ Blue Borders = Questing Area's
 
 ### [Hellfire Peninsula](./Hellfire/index.md)
 
+### [Hellfire Peninsula - More layout tests](./Hellfire/stickyimage-test.html)
+
 
 ## Repo Quicklinks
 - [Base Folder](https://github.com/Freezy3/Freezy3-TBC-Questing-Guide)
